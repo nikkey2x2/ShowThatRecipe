@@ -1,0 +1,1 @@
+copy /Y bin\Debug\netstandard2.0\ShowThatRecipe.dll "..\..\..\Steam\steamapps\common\Against the Storm\BepInEx\plugins"
